@@ -1,0 +1,38 @@
+export default {
+  login: "dasnishant1999",
+  id: 53637471,
+  node_id: "MDQ6VXNlcjUzNjM3NDcx",
+  avatar_url: "https://avatars.githubusercontent.com/u/53637471?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/dasnishant1999",
+  html_url: "https://github.com/dasnishant1999",
+  followers_url: "https://api.github.com/users/dasnishant1999/followers",
+  following_url:
+    "https://api.github.com/users/dasnishant1999/following{/other_user}",
+  gists_url: "https://api.github.com/users/dasnishant1999/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/dasnishant1999/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/dasnishant1999/subscriptions",
+  organizations_url: "https://api.github.com/users/dasnishant1999/orgs",
+  repos_url: "https://api.github.com/users/dasnishant1999/repos",
+  events_url: "https://api.github.com/users/dasnishant1999/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/dasnishant1999/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Nishant Das",
+  company: null,
+  blog: "",
+  location: "Mumbai",
+  email: null,
+  hireable: null,
+  bio: null,
+  twitter_username: "dasN1shant",
+  public_repos: 12,
+  public_gists: 0,
+  followers: 1,
+  following: 2,
+  created_at: "2019-08-03T06:51:28Z",
+  updated_at: "2021-02-22T14:17:43Z",
+};
